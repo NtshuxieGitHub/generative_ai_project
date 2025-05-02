@@ -1,0 +1,7 @@
+{
+  "llm": {
+    "Groq": ["gemma2-9b-it", "llama-3.3-70b-versatile", "llama-3.1-8b-instant"],
+    "Openai": [],
+    "Ollama": ["gemma3:1b", "qwen3:1.7b"]
+  }
+}
